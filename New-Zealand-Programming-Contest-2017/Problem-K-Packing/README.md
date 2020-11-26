@@ -10,13 +10,13 @@ Input will consist of a series of problems. The first line of the input holds a 
 For each problem your program should output one line with the text “Problem “ and the number of the problem (counting from 1) followed by a colon, a space and the total value of presents shipped by the drone pair. 
 
 # Sample Input
-2
-4 9 4
-3 4 5 6
-5 7 9 10
-6 9 11
-3 4 5 6 3 4
-2 3 4 5 3 3
+2  
+4 9 4  
+3 4 5 6  
+5 7 9 10  
+6 9 11  
+3 4 5 6 3 4  
+2 3 4 5 3 3  
 
 # Sample Output
 Problem 1: 22
