@@ -1,1 +1,1 @@
-# cp-solns
+# Competitive Programming Problems and Solutions
