@@ -19,5 +19,5 @@ For each problem your program should output one line with the text â€œProblem â€
 2 3 4 5 3 3  
 
 # Sample Output
-Problem 1: 22
+Problem 1: 22  
 Problem 2: 16
