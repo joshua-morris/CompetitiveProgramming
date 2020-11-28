@@ -11,6 +11,6 @@
 - [ ] J - Trees (30)
 - [x] K - Packing (30)
 - [ ] L - Domino Killing (30)
-- [ ] M - Infinite Trees (100)
+- [x] M - Infinite Trees (100)
 - [ ] N - Competition Day (100)
 - [ ] O - School Pairing (100)
